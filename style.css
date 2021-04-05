@@ -282,7 +282,7 @@ div.world{
   font-size:16px;
 }
 div.container div + div{
-  border-left:1px solid #0000FF;
+  border-left:1px solid #fff;
   padding-left:15px;
 }
 div.container div:first-child{
