@@ -73,6 +73,9 @@ div.header__icons div p{
 div.header__icons div a{
   color:white;
 }
+div.header__icons div p a{
+  white-space: nowrap;
+}
 div.header__icons div:hover{
   background-color: #050505;
 transform:scale(1.2);
